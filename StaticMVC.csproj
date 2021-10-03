@@ -140,6 +140,7 @@
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="web\css\fontawesome-all.min.css" />
     <Content Include="web\css\style.css" />
+    <Content Include="web\images\Me.jpeg" />
     <Content Include="web\images\p1.jpeg" />
     <Content Include="web\index.html" />
     <Content Include="web\js\jquery.circlechart.js" />
@@ -190,6 +191,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
+    <Folder Include="web\images\App_LocalResources\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
